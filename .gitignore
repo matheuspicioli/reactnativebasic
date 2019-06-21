@@ -56,8 +56,6 @@ buck-out/
 *.jsbundle
 node_modules/
 
-android/
-ios/
 yarn.lock
 package-lock.json
 example-css.js
